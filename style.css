@@ -1,0 +1,62 @@
+img {
+  width: 300px;
+  cursor: pointer;
+}
+
+body {
+  width: 600px;
+  margin: auto;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.7);
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+html {
+  background-image: url(images/s.jpg);
+  background-size: cover;
+}
+
+input {
+  width: 400px;
+  height: 20px;
+  color: green;
+  margin-bottom: 20px;
+}
+
+#output {
+  color: green;
+}
+
+#lft {
+  text-align: left;
+  width: 500px;
+  margin: auto;
+}
+
+h1 {
+  text-align: left;
+  width: 500px;
+  margin: auto;
+  padding-bottom: 10px;
+}
+
+#line {
+  width: 500px;
+}
+
+h3 {
+  padding-top: 10px;
+  text-align: left;
+  width: 500px;
+  margin: auto;
+}
+
+#output2 {
+  text-align: left;
+  width: 500px;
+  margin: auto;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
